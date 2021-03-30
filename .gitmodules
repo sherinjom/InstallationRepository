@@ -1,9 +1,9 @@
-[submodule "generatedcode/Account"]
-	path = generatedcode/Account
+[submodule "GeneratedCode/Account"]
+	path = GeneratedCode/Account
 	url = https://github.com/sherinjom/Account.git
-[submodule "generatedcode/Customer"]
-	path = generatedcode/Customer
+[submodule "GeneratedCode/Customer"]
+	path = GeneratedCode/Customer
 	url = https://github.com/sherinjom/Customer.git
-[submodule "generatedcode/AccountBranch"]
-	path = generatedcode/AccountBranch
+[submodule "GeneratedCode/AccountBranch"]
+	path = GeneratedCode/AccountBranch
 	url = https://github.com/sherinjom/Account.git
