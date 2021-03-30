@@ -1,0 +1,6 @@
+[submodule "generatedcode/Account"]
+	path = generatedcode/Account
+	url = https://github.com/sherinjom/Account.git
+[submodule "generatedcode/Customer"]
+	path = generatedcode/Customer
+	url = https://github.com/sherinjom/Customer.git
